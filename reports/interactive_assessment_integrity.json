@@ -1,0 +1,80 @@
+{
+  "original_files_checked": 75,
+  "changed_original_files": [],
+  "original_database_tables": {
+    "interactive_demo": {
+      "demo_clock": {
+        "before": 1,
+        "after": 1,
+        "unchanged": true
+      },
+      "clock_history": {
+        "before": 0,
+        "after": 0,
+        "unchanged": true
+      },
+      "learners": {
+        "before": 1,
+        "after": 1,
+        "unchanged": true
+      },
+      "modules": {
+        "before": 2,
+        "after": 2,
+        "unchanged": true
+      },
+      "submissions": {
+        "before": 2,
+        "after": 2,
+        "unchanged": true
+      },
+      "quiz_grants": {
+        "before": 1,
+        "after": 1,
+        "unchanged": true
+      },
+      "preferences": {
+        "before": 1,
+        "after": 1,
+        "unchanged": true
+      },
+      "requests": {
+        "before": 0,
+        "after": 0,
+        "unchanged": true
+      },
+      "interactive_referrals": {
+        "before": 0,
+        "after": 0,
+        "unchanged": true
+      },
+      "drafts": {
+        "before": 2,
+        "after": 2,
+        "unchanged": true
+      },
+      "actions": {
+        "before": 0,
+        "after": 0,
+        "unchanged": true
+      },
+      "referrals": {
+        "before": 0,
+        "after": 0,
+        "unchanged": true
+      }
+    },
+    "staff_demo": {
+      "actions": {
+        "before": 0,
+        "after": 0,
+        "unchanged": true
+      },
+      "referrals": {
+        "before": 308,
+        "after": 308,
+        "unchanged": true
+      }
+    }
+  }
+}

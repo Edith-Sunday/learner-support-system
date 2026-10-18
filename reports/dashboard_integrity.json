@@ -1,0 +1,296 @@
+[
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\events.csv",
+    "original_sha256": "6542D428D399E6D18191BDFA624FAFCF00872089EE9A70DD297829B99FE79AF4",
+    "current_sha256": "6542D428D399E6D18191BDFA624FAFCF00872089EE9A70DD297829B99FE79AF4",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\hidden_traits.csv",
+    "original_sha256": "33C58BD9B2947B3A87FFC305DD81BC223AEF682A2F290D626CF3E2E0B6AD1FF4",
+    "current_sha256": "33C58BD9B2947B3A87FFC305DD81BC223AEF682A2F290D626CF3E2E0B6AD1FF4",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\labelled_test.csv",
+    "original_sha256": "3660D6224C415D62DEC74144BE60C3D817A28174C531FBA4A8D15DFEFB9491F2",
+    "current_sha256": "3660D6224C415D62DEC74144BE60C3D817A28174C531FBA4A8D15DFEFB9491F2",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\labelled_train.csv",
+    "original_sha256": "4E88BD1764C57622343E7D13F7BC4C2AEF5D7B7373BBF27E48BA19B7820960F1",
+    "current_sha256": "4E88BD1764C57622343E7D13F7BC4C2AEF5D7B7373BBF27E48BA19B7820960F1",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\labelled_validation.csv",
+    "original_sha256": "B1F9E7F835649371F1FBF6A097F8B0F5BFEEC4DE081840153BA4DB4FB09AE470",
+    "current_sha256": "B1F9E7F835649371F1FBF6A097F8B0F5BFEEC4DE081840153BA4DB4FB09AE470",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\logins.csv",
+    "original_sha256": "BA07C76062859BD9FE9F21206539085DD0F8F6072144D0DE8337C2BC6CBFE85D",
+    "current_sha256": "BA07C76062859BD9FE9F21206539085DD0F8F6072144D0DE8337C2BC6CBFE85D",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\model_features.json",
+    "original_sha256": "705699766F04085F075C91EAB1588B5975101401C0E4C7FD612A9DDF9EED762C",
+    "current_sha256": "705699766F04085F075C91EAB1588B5975101401C0E4C7FD612A9DDF9EED762C",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\module_outcomes.csv",
+    "original_sha256": "B566DDCF9B3D9840197252AA34B2EB11A1C658D29C886B629E9DC35A376DD8C3",
+    "current_sha256": "B566DDCF9B3D9840197252AA34B2EB11A1C658D29C886B629E9DC35A376DD8C3",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\practice_submissions.csv",
+    "original_sha256": "79BA91900FB25AFDE015D436AAE4521C59205AC307F7321E0B7A9469229571F0",
+    "current_sha256": "79BA91900FB25AFDE015D436AAE4521C59205AC307F7321E0B7A9469229571F0",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\prediction_snapshots.csv",
+    "original_sha256": "D18E71068C46A89048DB06CBB0D70D6B6B0B858E250EA8E76DE06B41AF829E01",
+    "current_sha256": "D18E71068C46A89048DB06CBB0D70D6B6B0B858E250EA8E76DE06B41AF829E01",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\quiz_attempts.csv",
+    "original_sha256": "B46F4B2501A94D1D891DD30A9A695555FF6798654C64284F237DBA1025A8664E",
+    "current_sha256": "B46F4B2501A94D1D891DD30A9A695555FF6798654C64284F237DBA1025A8664E",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\sessions.csv",
+    "original_sha256": "0214C3E2C270635E3EA2DADAADDB188F05FC0E5249FD1D8F8E48C41DC6AEC5A4",
+    "current_sha256": "0214C3E2C270635E3EA2DADAADDB188F05FC0E5249FD1D8F8E48C41DC6AEC5A4",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\simulation_metadata.json",
+    "original_sha256": "7759AFCF7B512BCDBE7C5E371CCAB1D88916B3A40F37EE669A6C8FBCBA66E61E",
+    "current_sha256": "7759AFCF7B512BCDBE7C5E371CCAB1D88916B3A40F37EE669A6C8FBCBA66E61E",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\student_splits.csv",
+    "original_sha256": "17858C38BA9DC5F5552854C003112BADABFC4C59A277481BB84D4C0AEAA11C7F",
+    "current_sha256": "17858C38BA9DC5F5552854C003112BADABFC4C59A277481BB84D4C0AEAA11C7F",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\students.csv",
+    "original_sha256": "2082DF9A7439705E20EEA034841A44D6E76737F2FA4441EDE68F983B66EE85B4",
+    "current_sha256": "2082DF9A7439705E20EEA034841A44D6E76737F2FA4441EDE68F983B66EE85B4",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\support_information.csv",
+    "original_sha256": "B2A212EE0D375A344683EAAC73E0FB64EB454662DC9465C787EA955C8BDCD139",
+    "current_sha256": "B2A212EE0D375A344683EAAC73E0FB64EB454662DC9465C787EA955C8BDCD139",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\data\\teacher_grants.csv",
+    "original_sha256": "EB97C1EB11F617BB8E96304609A5D0A154D7E6AB0078E2C9191C0790D7AE2A4E",
+    "current_sha256": "EB97C1EB11F617BB8E96304609A5D0A154D7E6AB0078E2C9191C0790D7AE2A4E",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\models\\feature_order.json",
+    "original_sha256": "705699766F04085F075C91EAB1588B5975101401C0E4C7FD612A9DDF9EED762C",
+    "current_sha256": "705699766F04085F075C91EAB1588B5975101401C0E4C7FD612A9DDF9EED762C",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\models\\gradient_boosting.joblib",
+    "original_sha256": "B1D721C6C03C5963F46420EA395D318DE0DA5FA6AFAF47DF24A5CC00C2F3D1EE",
+    "current_sha256": "B1D721C6C03C5963F46420EA395D318DE0DA5FA6AFAF47DF24A5CC00C2F3D1EE",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\models\\logistic_regression.joblib",
+    "original_sha256": "6890DC89DE242BEE7CC6852F18FCD47A3B6970BC870BB45BAEC51D39E9BA193D",
+    "current_sha256": "6890DC89DE242BEE7CC6852F18FCD47A3B6970BC870BB45BAEC51D39E9BA193D",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\models\\selection.json",
+    "original_sha256": "F896D5479CB47A5A90C07DA2734F4695951BED40C406C2E6BBEFFDE93483E23E",
+    "current_sha256": "F896D5479CB47A5A90C07DA2734F4695951BED40C406C2E6BBEFFDE93483E23E",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\data_dictionary.md",
+    "original_sha256": "A346C20C9AB52D777DC3FD3AF6FAE7EAF021D6600B1D51ED54E1C7206DFFB897",
+    "current_sha256": "A346C20C9AB52D777DC3FD3AF6FAE7EAF021D6600B1D51ED54E1C7206DFFB897",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\data_hashes_before_training.json",
+    "original_sha256": "832A637BD6F312F1E1A6E81C28F0F335D50459288EBDD01DF18CA582E503E273",
+    "current_sha256": "832A637BD6F312F1E1A6E81C28F0F335D50459288EBDD01DF18CA582E503E273",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\data_preservation_check.json",
+    "original_sha256": "0141E84DA16C58E7E4DD44AC2B5815B4D75724B0C6A339EDBC94B67AE2E1B67F",
+    "current_sha256": "0141E84DA16C58E7E4DD44AC2B5815B4D75724B0C6A339EDBC94B67AE2E1B67F",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\evaluation_audit.json",
+    "original_sha256": "194099DAF81D780D3959B1B66F72E72E6AACC59F823FBC8F84E557F8AA67336E",
+    "current_sha256": "194099DAF81D780D3959B1B66F72E72E6AACC59F823FBC8F84E557F8AA67336E",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\first_warnings_gradient_boosting.csv",
+    "original_sha256": "8E6DEC971B26A3B965693BE99A649C1ADB56E784913A2813F591D5504BC3CEB9",
+    "current_sha256": "8E6DEC971B26A3B965693BE99A649C1ADB56E784913A2813F591D5504BC3CEB9",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\first_warnings_logistic_regression.csv",
+    "original_sha256": "772E843E10F9574FF452C39BCFC7E2BA3C839A3CDCD4959504F9D68A7A2F4A88",
+    "current_sha256": "772E843E10F9574FF452C39BCFC7E2BA3C839A3CDCD4959504F9D68A7A2F4A88",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\missed_modules_without_snapshots.csv",
+    "original_sha256": "5741E1AD21E953CA8CD7D3007119AC62CE44DCE8EE1104BF88D7F697C0B55DD0",
+    "current_sha256": "5741E1AD21E953CA8CD7D3007119AC62CE44DCE8EE1104BF88D7F697C0B55DD0",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\model_evaluation_before_workload_review.md",
+    "original_sha256": "2725DF7888294DD8EBA1723251699E9012474DBD15BEC89014B8A6AC2BCB4CB9",
+    "current_sha256": "2725DF7888294DD8EBA1723251699E9012474DBD15BEC89014B8A6AC2BCB4CB9",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\model_evaluation.md",
+    "original_sha256": "24C5F722634EAE13A2C636DCEF9EAFFEDD26C55D0E6BEF7BFC7EE193B9778D6A",
+    "current_sha256": "24C5F722634EAE13A2C636DCEF9EAFFEDD26C55D0E6BEF7BFC7EE193B9778D6A",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\model_test_results.txt",
+    "original_sha256": "D415A6807F6A7ECBB574E523B577ACB23A1A43C0AD7A9819BAEE9B1460D3A315",
+    "current_sha256": "D415A6807F6A7ECBB574E523B577ACB23A1A43C0AD7A9819BAEE9B1460D3A315",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\module_warning_summary.csv",
+    "original_sha256": "302FC3718791F630F39877869034E9EBEE44C964118F2E96CF7FD8ADA84CADB6",
+    "current_sha256": "302FC3718791F630F39877869034E9EBEE44C964118F2E96CF7FD8ADA84CADB6",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\simulation_assumptions.md",
+    "original_sha256": "9B0FA74B318BDCD5F470E6C8B603A1EF517FADE937DBFF908844B93A7A79E3AC",
+    "current_sha256": "9B0FA74B318BDCD5F470E6C8B603A1EF517FADE937DBFF908844B93A7A79E3AC",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\snapshot_metrics.csv",
+    "original_sha256": "DBFD5F4A65DA25D2780CCA31ADD442700029890980E98D0E801506127F7AF058",
+    "current_sha256": "DBFD5F4A65DA25D2780CCA31ADD442700029890980E98D0E801506127F7AF058",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\test_predictions_gradient_boosting.csv",
+    "original_sha256": "BD4C0339831F18BF23013AD6807D77070AD5A373B9546E47BB580F33E069C71A",
+    "current_sha256": "BD4C0339831F18BF23013AD6807D77070AD5A373B9546E47BB580F33E069C71A",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\test_predictions_logistic_regression.csv",
+    "original_sha256": "C5ECE2BE6D675CE414D42CE7756B52590CDA031AF89D06D41783DC27444F924B",
+    "current_sha256": "C5ECE2BE6D675CE414D42CE7756B52590CDA031AF89D06D41783DC27444F924B",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\test_results.txt",
+    "original_sha256": "B215D8887823791AC654A7FB0110BED432D64CD9AEF5A528F46A1B62129CF347",
+    "current_sha256": "B215D8887823791AC654A7FB0110BED432D64CD9AEF5A528F46A1B62129CF347",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\validation_report.md",
+    "original_sha256": "D8A3358EC8A21B7D7BE3E661919D7F6A39D21A7AE6747827D40EBC3BBC3F5AE8",
+    "current_sha256": "D8A3358EC8A21B7D7BE3E661919D7F6A39D21A7AE6747827D40EBC3BBC3F5AE8",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\validation_thresholds_gradient_boosting.csv",
+    "original_sha256": "2A3CFB7D10F4EBA6AAFA68544D5BF22F6860C409F839897E95074E4AC2310363",
+    "current_sha256": "2A3CFB7D10F4EBA6AAFA68544D5BF22F6860C409F839897E95074E4AC2310363",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\validation_thresholds_logistic_regression.csv",
+    "original_sha256": "E73B9AE5C400E5A14EEDEEE599E7E4D599366BFA4EA3169875BA198730A7F2E0",
+    "current_sha256": "E73B9AE5C400E5A14EEDEEE599E7E4D599366BFA4EA3169875BA198730A7F2E0",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_review_audit.json",
+    "original_sha256": "3A85F67698A5A99109BF2D8F7131DCF6E6F7659EAF0C0B747EFE6C5CCFFACABB",
+    "current_sha256": "3A85F67698A5A99109BF2D8F7131DCF6E6F7659EAF0C0B747EFE6C5CCFFACABB",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_review_tests.txt",
+    "original_sha256": "6E1BBCF0AEB5040D3A24C18781F7F827F0E19E42116D7AE37898BB0E1F758C71",
+    "current_sha256": "6E1BBCF0AEB5040D3A24C18781F7F827F0E19E42116D7AE37898BB0E1F758C71",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_review.md",
+    "original_sha256": "365CFF5EFA5DB2DBEF42C02BC6D7F532CE0573E7A75ACB376D28B0DCA6853F53",
+    "current_sha256": "365CFF5EFA5DB2DBEF42C02BC6D7F532CE0573E7A75ACB376D28B0DCA6853F53",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_validation_capacity.csv",
+    "original_sha256": "9CA418BBCB7B60BF1953507D85F078081A06B9F517D6159CC0D55708287E396F",
+    "current_sha256": "9CA418BBCB7B60BF1953507D85F078081A06B9F517D6159CC0D55708287E396F",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_validation_first_warning_summary.csv",
+    "original_sha256": "7527B88F206BDE20933514F1640EAE339BBD41093866DC6A6FA21F5C62BDDC24",
+    "current_sha256": "7527B88F206BDE20933514F1640EAE339BBD41093866DC6A6FA21F5C62BDDC24",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_validation_first_warnings.csv",
+    "original_sha256": "C951552AABFF2E7097906AFFD788041A1EB722B78A6E6EA4986C666EB1A7E83E",
+    "current_sha256": "C951552AABFF2E7097906AFFD788041A1EB722B78A6E6EA4986C666EB1A7E83E",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_validation_predictions.csv",
+    "original_sha256": "8BE8B9F6866B64D801C709ED078CA79AEE978449DED1A442E4BA2ABFF76CDC40",
+    "current_sha256": "8BE8B9F6866B64D801C709ED078CA79AEE978449DED1A442E4BA2ABFF76CDC40",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_validation_rankings.csv",
+    "original_sha256": "8FA94ED391649EF9D3643641E29572C2265479D8C84B0E54FFBE98D50830E7BD",
+    "current_sha256": "8FA94ED391649EF9D3643641E29572C2265479D8C84B0E54FFBE98D50830E7BD",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\hp\\Documents\\ChatGPT\\Learner support system\\reports\\workload_validation_snapshot_reference.csv",
+    "original_sha256": "0BF9B3B6A067C35C1F1DFB201B9AF3AD5F0D5EB5151223F20E9960435B9CC566",
+    "current_sha256": "0BF9B3B6A067C35C1F1DFB201B9AF3AD5F0D5EB5151223F20E9960435B9CC566",
+    "unchanged": true
+  }
+]

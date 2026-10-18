@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.joblib binary
+*.sqlite3 binary
+data/** -text
+models/** -text
+reports/** -text

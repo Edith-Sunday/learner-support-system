@@ -1,0 +1,14 @@
+{
+  "selected": "logistic_regression",
+  "validation_mean_recall": {
+    "logistic_regression": 0.2843137254901961,
+    "gradient_boosting": 0.2647058823529412
+  },
+  "criterion": "Highest validation mean recall across days 3/7/10; absolute tolerance 1e-12 ties favour logistic regression. No test-based changes.",
+  "test_previously_inspected": true,
+  "frozen_before_this_run_test_evaluation": true,
+  "pipeline_hashes": {
+    "gradient_boosting.joblib": "df050e150fd18d255449cc1d00f96ea9cd23124faa14d47eadb87a77b3a9a3ca",
+    "logistic_regression.joblib": "c56ed734830bf69b96b5c6251f2a7ad2f27dc56c11570275e4d66cf7c6342b80"
+  }
+}

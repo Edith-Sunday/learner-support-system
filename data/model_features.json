@@ -1,0 +1,17 @@
+[
+  "days_since_login",
+  "no_login",
+  "quiz_score_trend",
+  "past_late_submissions",
+  "session_length",
+  "failed_or_dropped_sessions",
+  "time_on_task",
+  "activities_completed",
+  "practice_submitted",
+  "quiz_passed",
+  "current_quiz_score",
+  "quiz_attempt_count",
+  "offline_participation",
+  "previous_modules_completed_late",
+  "snapshot_day"
+]

@@ -1,0 +1,4 @@
+model,eligible_modules,eligible_missed_modules,warned_missed_modules,warned_missed_percent,missed_by_all_checks,median_lead_days,mean_lead_days,first_detected_11_days,first_detected_7_days,first_detected_4_days,first_detected_other_lead,on_time_modules_false_warning,unique_students_warned
+logistic_regression,351,138,138,100.0,0,11.0,11.0,138,0,0,0,195,90
+gradient_boosting,351,138,138,100.0,0,11.0,10.94927536231884,137,0,1,0,192,90
+flag_all_diagnostic,351,138,138,100.0,0,11.0,11.0,138,0,0,0,213,90

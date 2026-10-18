@@ -1,0 +1,4 @@
+method,eligible_modules,eligible_missed_modules,detected_missed_modules,recall,missed_all_checks,mean_lead_days,median_lead_days,first_detected_11_days,first_detected_7_days,first_detected_4_days,on_time_modules_warned,unique_students_warned,known_missed_without_snapshots
+logistic_regression,85,27,16,0.5925925925925926,11,8.375,7.0,7,7,2,15,31,0
+gradient_boosting,85,27,13,0.48148148148148145,14,8.615384615384615,7.0,6,6,1,14,27,0
+progress_rule,85,27,14,0.5185185185185185,13,8.071428571428571,7.0,6,5,3,18,32,0

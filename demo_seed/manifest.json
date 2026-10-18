@@ -1,0 +1,29 @@
+{
+  "source": "Latest working teacher-focused fictional demonstration",
+  "fictional_only": true,
+  "sha256": "1d2c164239831bcab2804b5a3d559330cea5f9b9c07ba56b227736f13c84d816",
+  "tables": {
+    "demo_clock": 1,
+    "clock_history": 3,
+    "learners": 7,
+    "modules": 10,
+    "submissions": 11,
+    "quiz_grants": 2,
+    "preferences": 8,
+    "requests": 2,
+    "interactive_referrals": 2,
+    "drafts": 4,
+    "content_availability": 2,
+    "study_sessions": 0,
+    "assessments": 10,
+    "assessment_results": 4,
+    "demo_scenarios": 6,
+    "actions": 3,
+    "referrals": 0,
+    "support_barriers": 1,
+    "support_drafts": 2,
+    "demo_outbox": 2,
+    "demo_responses": 2
+  },
+  "sanitization": "Reviewed all table text. Only DEMO001\u2013DEMO007, fictional staff and sample learning/support records; no contact addresses, credentials or personal learner records. SQLite backup followed by VACUUM removes unused pages. Learning history and predictions preserved."
+}

@@ -1,0 +1,45 @@
+# Pre-training design
+
+## features
+
+['practice_submitted', 'quiz_passed', 'current_quiz_score', 'quiz_score_trend', 'quiz_attempt_count', 'snapshot_day']
+
+## eligibility
+
+Original labelled exports only; Module 1; days 3/7/10; fewer than two known completed requirements. Original censoring and student assignments.
+
+## budget
+
+ceil(0.20 * eligible snapshots) independently per checkpoint; one learner per checkpoint
+
+## ties
+
+Descending model score then ascending student_id; IDs are administrative tie-breakers, never predictors. Rule: fewer requirements, missing score first, lower latest score, student_id.
+
+## selection
+
+Highest validation mean recall across days 3/7/10; absolute tolerance 1e-12 ties favour logistic regression. No test-based changes.
+
+## random
+
+1000 independent repeated draws, numpy default_rng(42); uniform permutations within each checkpoint, same ceil review volume. Report mean, SD, 2.5th/97.5th percentiles; descriptive variation, not confidence intervals.
+
+## logistic_regression
+
+{'C': 1.0, 'max_iter': 3000, 'random_state': 42}
+
+## gradient_boosting
+
+{'n_estimators': 80, 'learning_rate': 0.05, 'max_depth': 2, 'min_samples_leaf': 15, 'random_state': 42}
+
+## preprocessing
+
+Training-only median imputation with missing indicators and keep_empty_features; standard scaling for logistic regression only.
+
+## exclusions
+
+{'activities_completed': 'Exactly practice_submitted + quiz_passed; redundant. Retained for eligibility and progress rule.', 'offline_participation': 'Not equivalent: original includes any teacher_offline event, including sessions. Interactive records cover practice/quiz only. Excluded rather than silently redefining.', 'past_late_submissions / previous_modules_completed_late': 'Structural zero for Module 1.', 'login / interruptions / session length / active time': 'Measurement not equivalent. Existing timer and original full model remain unchanged.'}
+
+## status
+
+Exploratory simulated-data evaluation; test set already inspected in previous work. No numeric interactive integration or backfill.

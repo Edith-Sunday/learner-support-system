@@ -1,0 +1,13 @@
+# Cloud deployment preparation
+
+The source folder began on an unborn master branch, with no commits or remotes. GitHub repository Edith-Sunday/learner-support-system was verified empty and private. Deployment uses codex/streamlit-cloud, with no forced push or replacement of unrelated history.
+
+The current working dashboard at port 8506 was launched with runtime/teacher_focus_demo.sqlite3. Its seven fictional learners and four saved predictions were backed up using SQLite's backup API into demo_seed/demo.sqlite3. All text tables were inspected; only fictional learners/staff and sample support records were present. A credential/contact scan passed, and VACUUM removed unused database pages. The source database and all other original databases remain unchanged. No model training, data regeneration or UI redesign occurred.
+
+Startup now uses a project-relative seed on a fresh checkout. A temporary consistent backup is published atomically without overwriting an existing database; concurrent initializers and reruns preserve edits. Local overrides and the existing local database fallback remain supported. The Windows-only loopback server binding was removed so Streamlit Cloud can bind its service correctly. All module imports and runtime artifact paths use matching filename case. No external delivery provider is configured.
+
+Requirements retain exact saved-model versions and additionally pin scipy and altair from the working environment. Select Python 3.13 (local verification: 3.13.16). No secrets or environment variables are required. Cloud-local state is temporary and shared; the README states these limits and prohibits real learner data in this demonstration.
+
+Verification results are appended after execution. Linux is not installed locally; a GitHub Actions fresh-checkout check is included and its result must be distinguished from local Windows export verification.
+
+Clean-export verification completed on Windows/Python 3.13.16: **82 passed, 1 skipped**. The skipped check requires deliberately unpublished local-only preservation evidence; that evidence was independently verified in the original workspace. The export contained only the 128 staged repository files (about 20.4 MB), with no runtime database or environment override. Quiz, practice, staff list (four saved predictions), support and model evaluation loaded through Streamlit AppTest. Seed initialization, concurrent initializers and persistence across repeated initialization passed. A separately launched clean-export Streamlit server returned a healthy startup response. This is not a claim that Linux CI has already passed.

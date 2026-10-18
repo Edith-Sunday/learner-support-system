@@ -1,0 +1,27 @@
+{
+  "preexisting_files": 83,
+  "changed_files": [],
+  "database_table_equality": {
+    "interactive_demo": {
+      "demo_clock": true,
+      "clock_history": true,
+      "learners": true,
+      "modules": true,
+      "submissions": true,
+      "quiz_grants": true,
+      "preferences": true,
+      "requests": true,
+      "interactive_referrals": true,
+      "drafts": true,
+      "actions": true,
+      "referrals": true,
+      "content_availability": true,
+      "study_sessions": true,
+      "assessments": true
+    },
+    "staff_demo": {
+      "actions": true,
+      "referrals": true
+    }
+  }
+}

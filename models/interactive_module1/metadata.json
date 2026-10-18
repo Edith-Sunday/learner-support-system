@@ -1,0 +1,63 @@
+{
+  "dataset_hashes": {
+    "events.csv": "6542d428d399e6d18191bdfa624fafcf00872089ee9a70dd297829b99fe79af4",
+    "hidden_traits.csv": "33c58bd9b2947b3a87ffc305dd81bc223aef682a2f290d626cf3e2e0b6ad1ff4",
+    "labelled_test.csv": "3660d6224c415d62dec74144be60c3d817a28174c531fba4a8d15dfefb9491f2",
+    "labelled_train.csv": "4e88bd1764c57622343e7d13f7bc4c2aef5d7b7373bbf27e48ba19b7820960f1",
+    "labelled_validation.csv": "b1f9e7f835649371f1fbf6a097f8b0f5bfeec4de081840153ba4db4fb09ae470",
+    "logins.csv": "ba07c76062859bd9fe9f21206539085dd0f8f6072144d0de8337c2bc6cbfe85d",
+    "model_features.json": "705699766f04085f075c91eab1588b5975101401c0e4c7fd612a9ddf9eed762c",
+    "module_outcomes.csv": "b566ddcf9b3d9840197252aa34b2eb11a1c658d29c886b629e9dc35a376dd8c3",
+    "practice_submissions.csv": "79ba91900fb25afde015d436aae4521c59205ac307f7321e0b7a9469229571f0",
+    "prediction_snapshots.csv": "d18e71068c46a89048db06cbb0d70d6b6b0b858e250ea8e76de06b41af829e01",
+    "quiz_attempts.csv": "b46f4b2501a94d1d891dd30a9a695555ff6798654c64284f237dba1025a8664e",
+    "sessions.csv": "0214c3e2c270635e3ea2dadaaddb188f05fc0e5249fd1d8f8e48c41dc6aec5a4",
+    "simulation_metadata.json": "7759afcf7b512bcdbe7c5e371ccab1d88916b3a40f37ee669a6c8fbcba66e61e",
+    "students.csv": "2082df9a7439705e20eea034841a44d6e76737f2fa4441ede68f983b66ee85b4",
+    "student_splits.csv": "17858c38ba9dc5f5552854c003112badabfc4c59a277481bb84d4c0aeaa11c7f",
+    "support_information.csv": "b2a212ee0d375a344683eaac73e0fb64eb454662dc9465c787ea955c8bdcd139",
+    "teacher_grants.csv": "eb97c1eb11f617bb8e96304609a5d0a154d7e6ab0078e2c9191c0790d7ae2a4e"
+  },
+  "feature_order": [
+    "practice_submitted",
+    "quiz_passed",
+    "current_quiz_score",
+    "quiz_score_trend",
+    "quiz_attempt_count",
+    "snapshot_day"
+  ],
+  "versions": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0"
+  },
+  "python": "3.13.16",
+  "warnings": [],
+  "reproducibility": {
+    "logistic_regression": true,
+    "gradient_boosting": true
+  },
+  "offline_definition_disagreements": {
+    "train": 67,
+    "validation": 19,
+    "test": 11
+  },
+  "training_unique_values": {
+    "practice_submitted": 2,
+    "quiz_passed": 2,
+    "current_quiz_score": 11,
+    "quiz_score_trend": 12,
+    "quiz_attempt_count": 6,
+    "snapshot_day": 3
+  },
+  "training_missing_counts": {
+    "practice_submitted": 0,
+    "quiz_passed": 0,
+    "current_quiz_score": 486,
+    "quiz_score_trend": 771,
+    "quiz_attempt_count": 0,
+    "snapshot_day": 0
+  },
+  "design_hash": "7cf1420945d68c535933a8ff28bb4af771d481e541eb41a98aa60495ce6d84f8"
+}
